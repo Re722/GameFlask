@@ -1,0 +1,14 @@
+.imgquadrado{
+    width: 700px;
+    height: 500px;
+    border: 2rem;
+    box-shadow: inset;
+    background: scroll;
+    background-color: brown;
+}
+.cor{
+    background-color: aquamarine;
+}
+.cor1{
+    background-color: rgb(176, 165, 207);
+}
